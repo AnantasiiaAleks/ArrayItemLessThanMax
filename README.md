@@ -19,7 +19,7 @@
 
 К решению прилагается **блок-схема** работы алгоритма:
 
-![Блок-схема работы алгоритма](https://photos.app.goo.gl/bjVRpkHzW8yhwJb89)
+![Блок-схема работы алгоритма](https://disk.yandex.ru/i/oO8jiBItamD1IA)
 
 ### Метод PrintArray
 
